@@ -1,12 +1,12 @@
 ## Idées de Sujet pour le Travail De fin d'Année.
 
-You can use the [editor on GitHub](https://github.com/FarahMrbt/fmpro/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Reconnaissance Faciale sur Smartphone.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ayant acquis depuis peu un nouveau téléphone étant équipé du logiciel de reconnaissance faciale, j'aimerais en savoir un peu plus sur le fonctionnement de celui-ci.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Assistance vocale (type Siri, Google Assistant, etc.)
+
 
 ```markdown
 Syntax highlighted code block
