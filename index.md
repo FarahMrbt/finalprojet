@@ -4,7 +4,7 @@
 
 _Ayant acquis depuis peu un nouveau téléphone étant équipé du logiciel de reconnaissance faciale, j'aimerais en savoir un peu plus sur le fonctionnement de celui-ci._
 
-![Image de reconnaissance faciale](/)
+![Image de reconnaissance faciale](Images/face.jpg)
 
 **Sources pistes :**  
 
@@ -22,4 +22,4 @@ _s'étant invité sur nos appareils électroniques depuis une décennie déjà, 
 - [Lien Wikipédia](https://fr.wikipedia.org/wiki/Assistant_personnel_intelligent)
 - [Lien Vidéo explicative](https://www.lorigine.fr/un-assistant-vocal-comment-ca-marche/)
 
-![Image Assistant Vocale](/)
+![Image Assistant Vocale](Images/Google.jpg)
