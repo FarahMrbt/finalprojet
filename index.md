@@ -1,37 +1,25 @@
 ## Idées de Sujet pour le Travail De fin d'Année.
 
-### Reconnaissance Faciale sur Smartphone.
+### Reconnaissance Faciale.
 
-Ayant acquis depuis peu un nouveau téléphone étant équipé du logiciel de reconnaissance faciale, j'aimerais en savoir un peu plus sur le fonctionnement de celui-ci.
+_Ayant acquis depuis peu un nouveau téléphone étant équipé du logiciel de reconnaissance faciale, j'aimerais en savoir un peu plus sur le fonctionnement de celui-ci._
+
+![Image de reconnaissance faciale](/)
+
+**Sources pistes :**  
+
+- [Lien Wikipédia](https://fr.wikipedia.org/wiki/Syst%C3%A8me_de_reconnaissance_faciale)
+- [Les différentes utilisations de cette technologie](https://www.gemalto.com/france/gouv/biometrie/reconnaissance-faciale)
 
 
-## Assistance vocale (type Siri, Google Assistant, etc.)
 
+### Assistance vocale/personnel (type Siri, Google Assistant, etc.)
 
-```markdown
-Syntax highlighted code block
+_s'étant invité sur nos appareils électroniques depuis une décennie déjà, j'aimerai découvrir ce qui se cache derrière les logiciels des assistants personnels et les capacités de reconnaître les voix et les commandes suggérés dans les différentes langues_
 
-# Header 1
-## Header 2
-### Header 3
+**Sources pistes :**
 
-- Bulleted
-- List
+- [Lien Wikipédia](https://fr.wikipedia.org/wiki/Assistant_personnel_intelligent)
+- [Lien Vidéo explicative](https://www.lorigine.fr/un-assistant-vocal-comment-ca-marche/)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FarahMrbt/fmpro/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Image Assistant Vocale](/)
